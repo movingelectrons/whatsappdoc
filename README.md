@@ -1,0 +1,2 @@
+# whatsappdoc
+Taking whatsapp's security ideas to the max.  Full end to end encryption, messages volatile (destroyed shortly after opening), absolutely minimal storing of any messages on servers (if servers end up being required, shooting for pure P2P).  Why?  Because not all governments are fair, not all police forces are fair, this secure messaging system is for those of us who choose absolute privacy over everything, and some simplicity to go along with it.
